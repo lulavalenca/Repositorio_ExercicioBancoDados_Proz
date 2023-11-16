@@ -1,0 +1,25 @@
+Para fortalecer senhas e melhorar a segurança dos dados, considere os seguintes métodos:
+
+Comprimento e Complexidade:
+
+Opte por senhas longas, pois quanto maior, mais difícil é quebrá-las.
+Inclua uma combinação de letras maiúsculas e minúsculas, números e caracteres especiais.
+Evite Informações Pessoais:
+
+Evite utilizar informações pessoais óbvias, como nomes, datas de nascimento, números de telefone, etc.
+Não use palavras comuns ou sequências fáceis de adivinhar.
+Autenticação de Dois Fatores (2FA):
+
+Ative a autenticação de dois fatores sempre que possível.
+Além da senha, a autenticação de dois fatores exige um segundo método de verificação, como um código enviado por mensagem de texto, aplicativo autenticador ou chave de segurança física.
+Gerenciadores de Senhas:
+
+Considere o uso de um gerenciador de senhas confiável. Essas ferramentas podem gerar senhas complexas e únicas para cada serviço, e você só precisa lembrar uma senha mestra.
+Atualizações Regulares:
+
+Mude suas senhas regularmente, pelo menos a cada três meses.
+Evite reutilizar senhas antigas e não use a mesma senha para vários serviços.
+Conscientização e Educação:
+
+Eduque funcionários e clientes sobre práticas de segurança de senhas.
+Incentive a criação de senhas fortes e explique os riscos associados ao uso de senhas fracas ou comuns.
